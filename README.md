@@ -28,8 +28,8 @@
  
 ![PabloMatMar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloMatMar&show_icons=true&theme=radical)
 
-<!-- ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMatMAr&layout=compact)](https://github.com/PabloMatMar/github-readme-stats) -->
+## 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMatMAr&layout=compact)](https://github.com/PabloMatMar/github-readme-stats)
 
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PabloMatMar&theme=radical)](https://git.io/streak-stats)
