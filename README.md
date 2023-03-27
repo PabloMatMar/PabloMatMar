@@ -14,7 +14,8 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mongodb.com/developer/languages/javascript/mongoose-versus-nodejs-driver/" target="_blank" rel="noreferrer"><img src="mongoose.png" width="36" height="36" alt="moongose">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://regexr.com/" target="_blank" rel="noreferrer"><img src="regex.png" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="jwt.png" width="36" height="36" alt="JasonWeebTokken" /></a>
+<a href="https://regexr.com/" target="_blank" rel="noreferrer"><img src="regex.png" width="36" height="36" alt="RegEx" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="Jest.png" width="36" height="36" alt="Jest" /></a>
 <a href ="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e6f31db76aa258d4e26be8464f2dff9796d5cf59185976df02dd80ae6a60cc9e/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7075672e737667" width="36" height="36"/> </a>
