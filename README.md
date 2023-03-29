@@ -26,9 +26,9 @@
 <a href="https://regexr.com/" target="_blank" rel="noreferrer"><img src="regex.png" width="36" height="36" alt="RegEx" /></a>
 <a href="https://badgr.com/backpack/badges/64230d9e1052497a9690c6be" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="Jest.png" width="36" height="36" alt="Jest" /></a>
-<a href="https://badgr.com/backpack/badges/64230c9ba35a3c01c9bb954a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://badgr.com/backpack/badges/64230c83a35a3c01c9bb9529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://badgr.com/backpack/badges/64230f41a35a3c01c9bb9996" target="_blank" rel="noreferrer"><img src="poo.png" width="36" height="36" alt="Poo" /></a>
+<a href="https://badgr.com/backpack/badges/64230c83a35a3c01c9bb9529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://badgr.com/backpack/badges/64230c9ba35a3c01c9bb954a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
 
 ## Codewars JavaScript Level:
