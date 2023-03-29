@@ -6,7 +6,7 @@
 
 
 ### My abilities:
-#### Click on the logo to see the credential
+#### Press CTRL + click on the image to see the credential
 
 
 <p align="left">
@@ -28,8 +28,8 @@
 <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="Jest.png" width="36" height="36" alt="Jest" /></a>
 <a href="https://badgr.com/backpack/badges/64230c83a35a3c01c9bb9529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://badgr.com/backpack/badges/64230c9ba35a3c01c9bb954a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://badgr.com/backpack/badges/64230f41a35a3c01c9bb9996" target="_blank" rel="noreferrer"><img src="POO.png" width="36" height="36" alt="POO" /></a>
-<a href="https://badgr.com/backpack/badges/64230dc91052497a9690c6e3" target="_blank" rel="noreferrer"><img src="github.png" width="36" height="36" alt="POO" /></a>
+<a href="https://badgr.com/backpack/badges/64230f41a35a3c01c9bb9996" target="_blank" rel="noreferrer"><img src="POO.jpg" width="36" height="36" alt="POO" /></a>
+<a href="https://badgr.com/backpack/badges/64230dc91052497a9690c6e3" target="_blank" rel="noreferrer"><img src="github.png" width="36" height="36" alt="github" /></a>
 </p>
 
 ## Codewars JavaScript Level:
