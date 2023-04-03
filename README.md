@@ -38,7 +38,7 @@
  
  ## My Statistics
  
-![PabloMatMar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloMatMar&show_icons=true&theme=radical)
+![PabloMatMar's GitHub stats](GITHUB_STATS)
 
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMatMAr&layout=compact&theme=radical)](https://github.com/PabloMatMar/github-readme-stats)
