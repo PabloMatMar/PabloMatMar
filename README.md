@@ -1,7 +1,4 @@
-<!-- # Hi there 	&#128075;&#127996;, I'm Pablo 	 	&#128105;&#127995;&#8205;&#128188; :computer:  -->
-
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5518B8&width=435&lines=+I'm+a+Full+Stack+Developer+💥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5518B8&width=435&lines=+I'm+a+Full+Stack+Developer+💥)](https://git.io/typing-svg)
  
 
 
