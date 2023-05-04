@@ -2,7 +2,7 @@
  
 
 
-### My abilities:
+## Skills
 #### Press CTRL + click on the image to see the credential
 
 
@@ -40,27 +40,8 @@
 ![](https://komarev.com/ghpvc/?username=PabloMatMar&color=75F94D)
 
 
-
-
 ## Contact:
 
 <p align="left"> <a href="https://www.linkedin.com/in/pablo-mateos-mart%C3%ADn-952911269/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 
 <a href="mailto: PabMatMar@gmail.com">PabMatMar@gmail.com</a></p>
-
-<!-- ### Hi there 👋
-
-<!--
-**PabloMatMar/PabloMatMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
