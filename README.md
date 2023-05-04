@@ -30,7 +30,7 @@
 </p>
 
 ## Codewars JavaScript Level:
-![Codewars Level](https://www.codewars.com/users/PabloMatMar/badges/large)
+![Codewars Level](https://www.codewars.com/users/PabloMatMar/badges/small)
 
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PabloMatMar&theme=radical)](https://git.io/streak-stats)
