@@ -29,7 +29,7 @@
 <a href="https://badgr.com/backpack/badges/64230dc91052497a9690c6e3" target="_blank" rel="noreferrer"><img src="./img/github.png" width="36" height="36" alt="github" /></a>
 </p>
 
-## Codewars JavaScript Level:
+## My level in the technical-logical tests:
 ![Codewars Level](https://www.codewars.com/users/PabloMatMar/badges/small)
 
 ## Streak
