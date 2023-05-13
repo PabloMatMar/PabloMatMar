@@ -1,11 +1,8 @@
-<!-- # Hi there 	&#128075;&#127996;, I'm Pablo 	 	&#128105;&#127995;&#8205;&#128188; :computer:  -->
-
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5518B8&width=435&lines=+I'm+a+Full+Stack+Developer+💥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5518B8&width=435&lines=+I'm+a+Full+Stack+Developer+💥)](https://git.io/typing-svg)
  
 
 
-### My abilities:
+## Skills
 #### Press CTRL + click on the image to see the credential
 
 
@@ -32,8 +29,16 @@
 <a href="https://badgr.com/backpack/badges/64230dc91052497a9690c6e3" target="_blank" rel="noreferrer"><img src="./img/github.png" width="36" height="36" alt="github" /></a>
 </p>
 
-## Codewars JavaScript Level:
-![Codewars Level](https://www.codewars.com/users/PabloMatMar/badges/large)
+## My level in the technical-logical tests:
+![Codewars Level](https://www.codewars.com/users/PabloMatMar/badges/small)
+[<h4> README file github repository technical-logical tests here</h4>](https://github.com/PabloMatMar/Pruebas-tecnicas/tree/main)
+ 
+ <!-- ## My Statistics
+ 
+![PabloMatMar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloMatMar&show_icons=true&theme=radical)
+
+## 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMatMAr&layout=compact&theme=radical)](https://github.com/PabloMatMar/github-readme-stats) -->
 
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PabloMatMar&theme=radical)](https://git.io/streak-stats)
@@ -43,27 +48,8 @@
 ![](https://komarev.com/ghpvc/?username=PabloMatMar&color=75F94D)
 
 
-
-
 ## Contact:
 
 <p align="left"> <a href="https://www.linkedin.com/in/pablo-mateos-mart%C3%ADn-952911269/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 
 <a href="mailto: PabMatMar@gmail.com">PabMatMar@gmail.com</a></p>
-
-<!-- ### Hi there 👋
-
-<!--
-**PabloMatMar/PabloMatMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
