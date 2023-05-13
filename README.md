@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5518B8&width=435&lines=+I'm+a+Full+Stack+Developer+💥)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5518B8&width=435&lines=+I'm+a+Full+Stack+Developer+💥)](https://git.io/typing-svg)
+
  
 
-
-## Skills
 ## Skills
 #### Press CTRL + click on the image to see the credential
 
+</Br>
 
 <p align="left">
 <a href="https://badgr.com/backpack/badges/64230cb91052497a9690c564" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -31,9 +30,13 @@
 <a href="https://badgr.com/backpack/badges/64230dc91052497a9690c6e3" target="_blank" rel="noreferrer"><img src="./img/github.png" width="36" height="36" alt="github" /></a>
 </p>
 
+</Br>
+
 ## My level in the technical-logical tests:
 ![Codewars Level](https://www.codewars.com/users/PabloMatMar/badges/small)
 [<h4> README file github repository technical-logical tests here</h4>](https://github.com/PabloMatMar/Pruebas-tecnicas/tree/main)
+
+</Br>
  
  <!-- ## My Statistics
  
@@ -49,6 +52,7 @@
 ##
 ![](https://komarev.com/ghpvc/?username=PabloMatMar&color=75F94D)
 
+</Br>
 
 ## Contact:
 
