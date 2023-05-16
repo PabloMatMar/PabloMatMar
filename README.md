@@ -34,7 +34,7 @@
 
 ## My level in the technical-logical tests:
 ![Codewars Level](https://www.codewars.com/users/PabloMatMar/badges/small)
-<a href="https://github.com/PabloMatMar/Pruebas-tecnicas/tree/main"><h4> README file github repository technical-logical tests here</h4></a>
+<a href="https://github.com/PabloMatMar/Pruebas-tecnicas/tree/main" target="_blank" rel="noreferrer">README file github repository technical-logical tests here</a>
 
 </Br>
  
