@@ -34,16 +34,16 @@
 
 ## My level in the technical-logical tests:
 ![Codewars Level](https://www.codewars.com/users/PabloMatMar/badges/small)
-[<h4> README file github repository technical-logical tests here</h4>](https://github.com/PabloMatMar/Pruebas-tecnicas/tree/main)
+<a href="https://github.com/PabloMatMar/Pruebas-tecnicas/tree/main"><h4> README file github repository technical-logical tests here</h4></a>
 
 </Br>
  
  <!-- ## My Statistics
  
-![PabloMatMar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloMatMar&show_icons=true&theme=radical) -->
+![PabloMatMar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloMatMar&show_icons=true&theme=radical)
 
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMatMAr&layout=compact&theme=radical)](https://github.com/PabloMatMar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMatMAr&layout=compact&theme=radical)](https://github.com/PabloMatMar/github-readme-stats)-->
 
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PabloMatMar&theme=radical)](https://git.io/streak-stats)
