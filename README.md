@@ -27,8 +27,6 @@
 <a href="https://badgr.com/backpack/badges/64230c83a35a3c01c9bb9529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://badgr.com/backpack/badges/64230c9ba35a3c01c9bb954a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://badgr.com/backpack/badges/64230f41a35a3c01c9bb9996" target="_blank" rel="noreferrer"><img src="./img/POO.jpg" width="36" height="36" alt="POO" /></a>
-<a href="https://badgr.com/backpack/badges/64230dc91052497a9690c6e3" target="_blank" rel="noreferrer"><img src="./img/github.png" width="36" height="36" alt="github" /></a>
-</p>
 
 </Br>
 
@@ -62,3 +60,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/pablo-mateos-mart%C3%ADn-952911269/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 
 <a href="mailto: PabMatMar@gmail.com">PabMatMar@gmail.com</a></p>
+
+## Yes, I know how to use version control 😎
+## Badge:
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/TjqkDnuZQXiglA_Kxj4cSg?identity__email=pabmatmar%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/TjqkDnuZQXiglA_Kxj4cSg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">GitHub</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Pablo Mateos Martin </span></p></blockquote>
