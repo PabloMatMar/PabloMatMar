@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5518B8&width=435&lines=+I'm+a+Full+Stack+Developer+💥)](https://git.io/typing-svg)
 
- 
-
 ## Skills
 #### Press CTRL + click on the image to see the credential
 
